@@ -1,6 +1,6 @@
 ### _Hello there_  👋
 
-#### _Glad to see you here!!_  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanaVieira95.visitor-badge)
+## _Glad to see you here!!_  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanaVieira95.visitor-badge)
 
 [![Twitter Badge](https://img.shields.io/badge/-@padawanluana-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/PadawanLuana)](https://twitter.com/PadawanLuana) 
 [![Linkedin Badge](https://img.shields.io/badge/-Luana%20Vieira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanavieira95/)](https://www.linkedin.com/in/luanavieira95/) 
