@@ -3,7 +3,7 @@
 <!--
 **LuanaVieira95/LuanaVieira95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-https://img.shields.io/badge/-luanavieira9519@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white (luanavieira9519@gmail.com)
+[! https://img.shields.io/badge/-luanavieira9519@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white (luanavieira9519@gmail.com)
 
 
 Here are some ideas to get you started:
