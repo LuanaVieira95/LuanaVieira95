@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 ---
 ![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanaVieira95&show_icons=true&theme=radical)
 ---
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
