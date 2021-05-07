@@ -3,6 +3,9 @@
 <!--
 **LuanaVieira95/LuanaVieira95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://img.shields.io/badge/-luanavieira9519@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white (luanavieira9519@gmail.com)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -20,3 +23,4 @@ Here are some ideas to get you started:
 ![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanaVieira95&show_icons=true&theme=radical)
 ---
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+
