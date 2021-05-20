@@ -8,6 +8,8 @@
 
 Welcome to my profile! My name is Luana and thanks for visiting!! 
 
+<img align="right" src="https://github.com/LuanaVieira95/LuanaVieira95/raw/main/computer-illustration.png" widht="350"/>
+
  ### _About me_
 
 - 🔭 I’m currently working on personal projects.
