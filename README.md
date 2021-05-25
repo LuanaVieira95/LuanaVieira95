@@ -13,7 +13,7 @@ Welcome to my profile! My name is Luana and thanks for visiting!!
  ### _About me_
 
 - 🔭 I’m currently working on personal projects.
-- 🌱 I’m currently learning R, Python, Ruby on Rails and Data Science.
+- 🌱 I’m currently learning R, Python, Ruby and Data Science.
 - 👯 I’m looking to collaborate on any open source project.
 - 🤔 I’m looking for help with algorithms and clean code.
 - 💬 Ask me about the universe! The answer will be always 42!
