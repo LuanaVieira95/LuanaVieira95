@@ -23,7 +23,7 @@ Welcome to my profile! My name is Luana and thanks for visiting!!
 ![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanaVieira95&show_icons=true&theme=radical)
 ---
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=LuanaVieira95.visitor-badge)
+
 
 
 
