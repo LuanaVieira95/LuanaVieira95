@@ -17,13 +17,14 @@ Welcome to my profile! My name is Luana and thanks for visiting!!
 - 💬 Ask me about the universe! The answer will be always 42!
 - ⚡ Fun fact: I got legend in Hearthstone. 
 
+[Wakatime profile](https://wakatime.com/@35ae2a9f-1123-46ea-b1ce-594a165d3ae9)
 ######  _"We're made of star stuff. We are a way of cosmos to know itself"-Carl Sagan_
 
 
 ![Luana's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuanaVieira95&show_icons=true&theme=radical)
 ---
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
-[![wakatime](https://wakatime.com/badge/user/35ae2a9f-1123-46ea-b1ce-594a165d3ae9.svg)](https://wakatime.com/@35ae2a9f-1123-46ea-b1ce-594a165d3ae9)
+
 
 
 
