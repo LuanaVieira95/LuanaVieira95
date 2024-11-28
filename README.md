@@ -1,7 +1,6 @@
 ### _Hello there_  👋
 
 ## _Glad to see you here!!_  
-[![Twitter Badge](https://img.shields.io/badge/-@padawanluana-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/PadawanLuana)](https://twitter.com/PadawanLuana) 
 [![Linkedin Badge](https://img.shields.io/badge/-Luana%20Vieira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanavieira95/)](https://www.linkedin.com/in/luanavieira95/) 
 
 Welcome to my profile! My name is Luana and thanks for visiting!! 
@@ -10,7 +9,6 @@ Welcome to my profile! My name is Luana and thanks for visiting!!
 
  ### _About me_
 
-- 🔭 I’m currently working on personal projects.
 - 🌱 I’m currently learning Cypress automation and Cybersecurity.
 - 👯 I’m looking to collaborate on any open source project.
 - 🤔 I’m looking for help with quality assurance and pentest.
