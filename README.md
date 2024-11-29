@@ -2,6 +2,7 @@
 
 ## _Glad to see you here!!_  
 [![Linkedin Badge](https://img.shields.io/badge/-Luana%20Vieira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luanavieira95/)](https://www.linkedin.com/in/luanavieira95/) 
+[![wakatime](https://wakatime.com/badge/user/35ae2a9f-1123-46ea-b1ce-594a165d3ae9.svg)](https://wakatime.com/@35ae2a9f-1123-46ea-b1ce-594a165d3ae9)
 
 Welcome to my profile! My name is Luana and thanks for visiting!! 
 
