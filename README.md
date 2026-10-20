@@ -10,9 +10,8 @@ Welcome to my profile! My name is Luana and thanks for visiting!!
 
  ### _About me_
 
-- 🌱 I’m currently learning Cypress automation and Cybersecurity.
+- :beetle: Quality Assurance | Cybersecurity | Playwright & Cypress | API & UI Testing 
 - 👯 I’m looking to collaborate on any open source project.
-- 🤔 I’m looking for help with quality assurance and pentest.
 - 💬 Ask me about the universe! The answer will be always 42!
 - ⚡ Fun fact: I got legend in Hearthstone. 
 
